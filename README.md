@@ -1,2 +1,2 @@
 # Random-password-generator
-Random password generator code and documentation
+Hello every one i did a project on Random password generator using python with libraries So, let's discuss the function of our program, so, first our program ask for length of password, and length of the symbols and length of the numbers after that it generates easy  password as per given length, next we need to use shuffle function and print the program then we will get very hard and stronge password will generate 
